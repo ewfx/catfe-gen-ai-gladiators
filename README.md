@@ -19,8 +19,12 @@ The Gen AI Test-Hub web application serves as a powerful solution for generating
 Financial institutions operate within complex ecosystems comprising multiple interconnected systems, applications, and APIs. Testing these ecosystems often relies on static mock tools, leading to inefficiencies and high maintenance costs. The challenge is to develop a context- aware testing system leveraging Generative Al to validate different financial ecosystems dynamically. The solution should intelligently generate, modify, and adapt test scenarios based on evolving system contexts, reducing manual effort and increasing test coverage and effectiveness.
 
 ## 🎥 Demo
-📹 [Video Demo](catfe-gen-ai-gladiators\artifacts\demo) -- (https://drive.google.com/file/d/1IsOEYRXlt8z99EqS2GxhudzzoSYViAtO/view?usp=drive_link)
-🖼️ Screenshots: (catfe-gen-ai-gladiators\artifacts\Application Screenshots)
+📹 [Video Demo]
+(catfe-gen-ai-gladiators\artifacts\demo)
+(https://drive.google.com/file/d/1IsOEYRXlt8z99EqS2GxhudzzoSYViAtO/view?usp=drive_link)
+
+🖼️ Screenshots: 
+(catfe-gen-ai-gladiators\artifacts\Application Screenshots)
 
 ## ⚙️ What It Does
 The Gen AI Test-Hub web application serves as a powerful solution for generating test scenarios with the aid of Generative AI technology. Its primary purpose is to streamline and enhance the test case creation process, making it accessible and efficient for software developers and testers.
