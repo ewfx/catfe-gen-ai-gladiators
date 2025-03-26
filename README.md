@@ -63,13 +63,13 @@ At the core of the application's functionality is its integration with the OpenA
 
 ## 🛠️ Architecture & Documentation
 
-1. "https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/Gen AI Test-Hub - Application Overview.pdf"
+1. https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/ => Gen AI Test-Hub - Application Overview.pdf
 
-2. "https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/Gen AI Test-Hub - Application Overview.pptx"
+2. https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/ => Gen AI Test-Hub - Application Overview.pptx
 
-3. "https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/Gen AI-Test-Hub - Logic Flow Diagram.jpeg"
+3. https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/ => Gen AI-Test-Hub - Logic Flow Diagram.jpeg
 
-4. "https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/Gen AI-Test-Hub - Swim Lane Sequence diagram.jpeg"
+4. https://github.com/ewfx/catfe-gen-ai-gladiators/tree/main/artifacts/arch/ => Gen AI-Test-Hub - Swim Lane Sequence diagram.jpeg
 
 
 ## 🏗️ Tech Stack
